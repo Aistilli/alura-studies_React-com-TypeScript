@@ -57,6 +57,31 @@ Aula 5, aprendi como:
 - Utilizar props e para informar uma mudança de estado;
   - Utilizamos a junção de props + state para podermos passar state para outros componentes e para podermos avisar que um estado deve ser mudado.
 
+Aula 6, aprendi como:
+
+- Compartilhar valores comuns entre componentes;
+  - Aprendemos como criar um estado que será compartilhado entre vários componentes.
+- Extender interfaces;
+  - Usamos a facilidade de estender uma interface dentro de outra interface para reaproveitar código.
+- Adicionar classes CSS de forma condicional;
+  - Aprendemos a utilizar um ternário para mudar classes CSS de uma tag baseada em alguma prop com template string.
+- Criar pastas utilitárias;
+
+  - Debatemos sobre formas de criar pastas com funções utilitárias compartilhadas na aplicação.
+
+  Aula 7, aprendi como:
+
+- Funciona o ciclo de vida de um componente;
+  - Entendemos como o ciclo de vida de um componente funciona, desde o seu nascimento até a sua morte.
+- Utilizar o useEffect;
+  - Utilizamos o useEffect para resolver um problema que tivemos e vimos como esse hook é importante no ecossistema React.
+- Desestruturar strings;
+  - Aprendemos que podemos desestruturar strings e que podemos colocar a opção downLevelIteration para que possamos fazer essa desestruturação.
+- Utilizar função recursiva;
+  - Criamos uma função recursiva para resolver o problema da contagem regressiva.
+- Refatorar um class component para um function component;
+  -Aprendemos como refatorar um class component para function component.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
