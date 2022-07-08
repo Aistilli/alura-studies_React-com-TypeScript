@@ -66,10 +66,9 @@ Aula 6, aprendi como:
 - Adicionar classes CSS de forma condicional;
   - Aprendemos a utilizar um ternário para mudar classes CSS de uma tag baseada em alguma prop com template string.
 - Criar pastas utilitárias;
-
   - Debatemos sobre formas de criar pastas com funções utilitárias compartilhadas na aplicação.
 
-  Aula 7, aprendi como:
+Aula 7, aprendi como:
 
 - Funciona o ciclo de vida de um componente;
   - Entendemos como o ciclo de vida de um componente funciona, desde o seu nascimento até a sua morte.
